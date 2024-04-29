@@ -1,0 +1,54 @@
+body{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  font-family: cursive;
+}
+
+h1{
+  text-align: center;
+}
+
+.toolbox{
+  width: 100vw;
+  display: flex;
+  
+}
+
+.toolbox{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.flex{
+  display: flex;
+  flex-direction: column ;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+}
+
+.awosemcontainer{
+  background-color: white;
+}
+
+button{
+  width: 50px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  margin-top: 1.2rem;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+
